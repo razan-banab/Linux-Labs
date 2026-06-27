@@ -37,6 +37,10 @@ Each department should only access its own folder, while everyone can access a s
 
 ## Screenshots
 
+![Hostname](screenshots/hostname.png)
+![Permissions](screenshots/permissions.png)
+![Groups](screenshots/groups.png)
+![Access Test](screenshots/access-test.png)
 
 ## What I Learned
 
