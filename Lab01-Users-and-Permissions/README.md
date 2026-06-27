@@ -13,7 +13,7 @@ A small company has two departments:
 
 Each department should only access its own folder, while everyone can access a shared folder.
 
-## Tasks
+## Implementation
 
 * Changed the hostname
 * Created the company directory structure
@@ -35,13 +35,15 @@ Each department should only access its own folder, while everyone can access a s
 * chown
 * ls
 
-## Skills Practiced
+## Screenshots
 
-* Linux user management
-* Group management
-* File ownership
-* File permissions
-* Access control
+
+## What I Learned
+
+- Managing Linux users and groups
+- Configuring file ownership and permissions
+- Organizing access using Linux groups
+- Verifying user permissions through testing
 
 ## Result
 
