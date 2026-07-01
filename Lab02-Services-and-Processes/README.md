@@ -36,7 +36,7 @@ Practice monitoring Linux processes and managing system services using essential
 
 ### Display Running Processes
 
-![Display Running Processes](screenshots/ps -aux.png)
+![Display Running Processes](screenshots/ps-aux.png)
 
 ### Search for a Specific Process
 
