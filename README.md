@@ -16,8 +16,8 @@ This repository documents my hands-on Linux projects as I learn Linux system adm
 | Lab | Topic                  | Status          |
 | --- | ---------------------- | -------------   |
 | 01  | Users and Permissions  | ✅ Completed   |
-| 02  | Services and Processes | ⏳ Coming Soon |
-| 03  | Linux Networking       | ⏳ Coming Soon |
+| 02  | Services and Processes | ✅ Completed   |
+| 03  | Linux Networking       | ✅ Completed   |
 | 04  | SSH                    | ⏳ Coming Soon |
 | 05  | Apache Web Server      | ⏳ Coming Soon |
 | 06  | DNS Server             | ⏳ Coming Soon |
