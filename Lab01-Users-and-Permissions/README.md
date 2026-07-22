@@ -26,14 +26,14 @@ Each department should only access its own folder, while everyone can access a s
 
 ## Commands Used
 
--'hostnamectl'
--'mkdir'
--'adduser'
--'groupadd'
-- 'usermod'
-- 'chmod'
-- 'chown'
-- 'ls'
+- `hostnamectl`
+- `mkdir`
+- `adduser`
+- `groupadd`
+- `usermod`
+- `chmod`
+- `chown`
+- `ls`
 
 ## Screenshots
 
