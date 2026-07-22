@@ -18,7 +18,7 @@ This repository documents my hands-on Linux projects as I learn Linux system adm
 | 01  | Users and Permissions  | ✅ Completed   |
 | 02  | Services and Processes | ✅ Completed   |
 | 03  | Linux Networking       | ✅ Completed   |
-| 04  | SSH                    | ⏳ Coming Soon |
+| 04  | SSH                    | ✅ Completed |
 | 05  | Apache Web Server      | ⏳ Coming Soon |
 | 06  | DNS Server             | ⏳ Coming Soon |
 | 07  | DHCP Server            | ⏳ Coming Soon |
