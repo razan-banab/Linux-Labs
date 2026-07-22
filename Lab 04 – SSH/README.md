@@ -71,7 +71,13 @@ A company has two Linux machines on the same network: one acts as a server and t
 
 ## What I Learned
 
-Through this lab, I learned how to securely access and manage a remote Linux server using SSH. I gained hands-on experience verifying the OpenSSH packages, managing the SSH service with `systemctl`, enabling it to start automatically at boot, confirming that it was listening for incoming connections, and establishing a secure remote session from a client machine. I also learned how to execute commands remotely, demonstrating one of the most common methods of Linux server administration.
+- Configuring secure remote access using SSH.
+- Verifying the OpenSSH Server and Client packages.
+- Managing the SSH service using `systemctl`.
+- Enabling services to start automatically during system boot.
+- Verifying that the SSH server is listening for incoming connections.
+- Establishing secure remote connections between Linux systems.
+- Executing commands remotely through an SSH session.
 
 ## Real-World Relevance
 
