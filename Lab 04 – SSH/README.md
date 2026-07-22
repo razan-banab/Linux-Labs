@@ -1,4 +1,4 @@
-# Linux Lab 04 – SSH (Secure Shell)
+# Lab 04 – SSH (Secure Shell)
 
 ## Objective
 
