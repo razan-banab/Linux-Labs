@@ -19,7 +19,7 @@ This repository documents my hands-on Linux projects as I learn Linux system adm
 | 02  | Services and Processes | ✅ Completed   |
 | 03  | Linux Networking       | ✅ Completed   |
 | 04  | SSH                    | ✅ Completed |
-| 05  | Apache Web Server      | ⏳ Coming Soon |
+| 05  | Apache Web Server      | ⏳ Completed |
 | 06  | DNS Server             | ⏳ Coming Soon |
 | 07  | DHCP Server            | ⏳ Coming Soon |
 | 08  | FTP Server             | ⏳ Coming Soon |
