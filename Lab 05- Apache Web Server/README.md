@@ -43,15 +43,15 @@ A small company requires an internal web server to host its homepage for employe
 
 ### Network connectivity verification.
 
-![Network Connectivity](screenshots/Network Connectivity.png)
+![Network Connectivity](screenshots/Network-Connectivity.png)
 
 ### Apache installation and version.
 
-![Apache Installation and Version](screenshots/Apache Install.png)
+![Apache Installation and Version](screenshots/Apache-Install.png)
 
 ### Apache service status.
 
-![Apache Service Status](screenshots/Apache Service.png)
+![Apache Service Status](screenshots/Apache-Service.png)
 
 ### Apache listening on port 80.
 
@@ -59,13 +59,13 @@ A small company requires an internal web server to host its homepage for employe
 
 ### Apache configuration showing the DocumentRoot.
 
-![Apache Configuration Path](screenshots/Apache Conf.png)
+![Apache Configuration Path](screenshots/Apache-Conf.png)
 
 ![DocumentRoot Configuration](screenshots/DocumentRoot.png)
 
 ### Backup of index.html.
 
-![Index.html Backup](screenshots/Index.html Backup.png)
+![Index.html Backup](screenshots/Index.html-Backup.png)
 
 ### Custom webpage displayed in Firefox.
 
