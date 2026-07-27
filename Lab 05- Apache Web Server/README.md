@@ -69,7 +69,8 @@ A small company requires an internal web server to host its homepage for employe
 
 ### Custom webpage displayed in Firefox.
 
-![Custom Webpage](screenshots/Custom Webpage.png)
+![Custom Webpage](screenshots/Custom-Webpage.png)
+
 ---
 
 ## Skills Covered
