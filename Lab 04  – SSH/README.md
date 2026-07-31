@@ -4,10 +4,12 @@
 
 Learn how to configure, manage, and test the SSH service on Ubuntu Linux to enable secure remote administration between two Linux systems.
 
+---
 ## Scenario
 
 A company has two Linux machines on the same network: one acts as a server and the other as a client. The system administrator must configure the server to allow secure remote access using SSH, verify that the service is operating correctly, and confirm that users can remotely log in and manage the server.
 
+---
 ## Implementation
 
 - Identified the server's IP address and verified network connectivity from the client.
@@ -18,6 +20,7 @@ A company has two Linux machines on the same network: one acts as a server and t
 - Established a secure SSH connection between the client and server.
 - Executed remote commands through the SSH session.
 
+---
 ## Commands Used
 
 - `ip a`
@@ -29,6 +32,7 @@ A company has two Linux machines on the same network: one acts as a server and t
 - `ss -tuln`
 - `ssh`
 
+---
 ## Screenshots
 
 ### Server IP Address
@@ -59,6 +63,7 @@ A company has two Linux machines on the same network: one acts as a server and t
 
 ![SSH Connection and Remote Command Verification](screenshots/ssh-remote-command.png)
 
+---
 ## Skills Covered
 
 - Linux package management
@@ -69,6 +74,7 @@ A company has two Linux machines on the same network: one acts as a server and t
 - Remote command execution
 - Basic Linux server administration
 
+---
 ## What I Learned
 
 - Configuring secure remote access using SSH.
@@ -79,10 +85,12 @@ A company has two Linux machines on the same network: one acts as a server and t
 - Establishing secure remote connections between Linux systems.
 - Executing commands remotely through an SSH session.
 
+---
 ## Real-World Relevance
 
 SSH is one of the most essential tools used by Linux system administrators, cloud engineers, and DevOps engineers. It provides a secure method for remotely managing servers, virtual machines, and network devices over a network. Whether administering cloud infrastructure, automating deployment tasks, or maintaining production systems, SSH is a fundamental technology used in professional IT environments.
 
+---
 ## Result
 
 Successfully configured an Ubuntu server for secure remote administration using SSH, verified that the SSH service was operating correctly and configured to start automatically at boot, confirmed network connectivity, and established a secure remote connection to execute commands on the server.
