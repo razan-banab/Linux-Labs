@@ -4,6 +4,7 @@
 
 Build a simple Linux company environment to practice user management, groups, ownership, and file permissions.
 
+---
 ## Scenario
 
 A small company has two departments:
@@ -13,6 +14,7 @@ A small company has two departments:
 
 Each department should only access its own folder, while everyone can access a shared folder.
 
+---
 ## Implementation
 
 * Changed the hostname
@@ -24,6 +26,7 @@ Each department should only access its own folder, while everyone can access a s
 * Configured permissions using `chmod`
 * Tested user access
 
+---
 ## Commands Used
 
 - `hostnamectl`
@@ -35,6 +38,7 @@ Each department should only access its own folder, while everyone can access a s
 - `chown`
 - `ls`
 
+---
 ## Screenshots
 
 ![Hostname](screenshots/hostname.png)
@@ -42,6 +46,7 @@ Each department should only access its own folder, while everyone can access a s
 ![Groups](screenshots/groups.png)
 ![Access Test](screenshots/access-test.png)
 
+---
 ## Skills Covered
 
 - Linux user management
@@ -52,6 +57,7 @@ Each department should only access its own folder, while everyone can access a s
 - Access control using groups and permissions
 - Basic Linux system administration
 
+---
 ## What I Learned
 
 - Managing Linux users and groups
@@ -59,10 +65,12 @@ Each department should only access its own folder, while everyone can access a s
 - Organizing access using Linux groups
 - Verifying user permissions through testing
 
+---
 ## Real-World Relevance
 
 User and permission management is a fundamental responsibility of Linux system administrators. Organizations use users, groups, file ownership, and permissions to control access to sensitive data and ensure that employees can only access the resources required for their roles. Understanding these concepts is essential for managing Linux servers securely in enterprise and cloud environments.
 
+---
 ## Result
 
 Successfully configured a Linux environment with proper user and group permissions for different departments.

@@ -4,6 +4,7 @@
 
 Practice monitoring Linux processes and managing system services using essential Linux administration commands.
 
+---
 ## Implementation
 
 - Displayed all running processes.
@@ -16,6 +17,7 @@ Practice monitoring Linux processes and managing system services using essential
 - Configured services to start automatically at boot.
 - Disabled services from starting automatically.
 
+---
 ## Commands Used
 
 - `ps aux`
@@ -32,6 +34,7 @@ Practice monitoring Linux processes and managing system services using essential
 - `systemctl disable`
 - `systemctl is-enabled`
 
+---
 ## Screenshots
 
 ### Display Running Processes
@@ -74,6 +77,8 @@ Practice monitoring Linux processes and managing system services using essential
 
 ![Enable Service](screenshots/enable-service.png)
 
+---
+
 ## Skills Covered
 
 - Linux process management
@@ -82,6 +87,7 @@ Practice monitoring Linux processes and managing system services using essential
 - Process identification using PID
 - Basic Linux system administration
 
+---
 ## What I Learned
 
 - Understanding the difference between processes and services.
@@ -90,10 +96,12 @@ Practice monitoring Linux processes and managing system services using essential
 - Managing Linux services using `systemctl`.
 - Understanding the difference between starting a service immediately and enabling it to start automatically during system boot.
 
+---
 ## Real-World Relevance
 
 Process and service management are fundamental skills for Linux System Administrators, DevOps Engineers, and Cloud Engineers. These tasks are performed daily to monitor server health, troubleshoot applications, restart failed services, and ensure critical services automatically start after system reboots in production environments.
 
+---
 ## Result
 
 Successfully monitored Linux processes and managed system services using essential Linux administration commands. This project strengthened foundational skills required for Linux system administration and cloud computing environments.
