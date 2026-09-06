@@ -22,6 +22,6 @@ This repository documents my hands-on Linux projects as I learn Linux system adm
 | 05  | Apache Web Server      | ✅ Completed |
 | 06  | DNS Server             | ✅ Completed |
 | 07  | DHCP Server            | ✅ Completed |
-| 08  | FTP Server             | ⏳ Coming Soon |
+| 08  | FTP Server             | ✅ Completed |
 | 09  | Mail Server            | ⏳ Coming Soon |
 | 10  | Bash Automation        | ⏳ Coming Soon |
