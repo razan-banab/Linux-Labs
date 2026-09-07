@@ -25,14 +25,12 @@ A small company wants to provide employees with an internal email service. A Mai
 
 ## Commands Used
 
-* `apt update`
 * `apt install postfix`
 * `apt install dovecot-pop3d`
 * `systemctl enable --now postfix`
 * `systemctl enable --now dovecot`
 * `systemctl status postfix`
 * `systemctl status dovecot`
-* `adduser`
 * `mail`
 
 ---
